@@ -9,6 +9,7 @@ import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 export const ProductPageTemplate = ({
   image,
+  imagealt,
   title,
   heading,
   description,
