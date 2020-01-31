@@ -39,6 +39,7 @@ export const ProductPageTemplate = ({
         {title}
       </h2>
     </div>
+      {title}
     <section className="section section--gradient">
       <div className="container">
         <div className="section">
